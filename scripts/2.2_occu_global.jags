@@ -1,0 +1,47 @@
+model {
+
+  # --- Detection (constant) ---
+  alpha0 ~ dnorm(0, 1)
+  logit(p) <- alpha0
+
+  # --- Occupancy regression priors ---
+  # Weakly informative: SD = 1 on logit scale
+  beta0      ~ dnorm(0, 1)
+  beta_ann   ~ dnorm(0, 1)    # annual rainfall
+  beta_rain6 ~ dnorm(0, 1)    # 6-month pre-survey rainfall
+  beta_heat  ~ dnorm(0, 1)    # extreme heat days
+  beta_pv    ~ dnorm(0, 1)    # photosynthetic vegetation fractional cover
+  beta_npv   ~ dnorm(0, 1)    # non-photosynthetic vegetation fractional cover
+
+  # --- Likelihood ---
+  for (i in 1:nSites) {
+
+    logit(psi[i]) <- beta0        +
+                     beta_ann   * ann[i]   +
+                     beta_rain6 * rain6[i] +
+                     beta_heat  * heat[i]  +
+                     beta_pv    * pv[i]    +
+                     beta_npv   * npv[i]
+
+    z[i] ~ dbern(psi[i])
+
+    for (j in 1:nVisits) {
+      y[i,j] ~ dbern(z[i] * p)
+
+      # Freeman-Tukey discrepancy for posterior predictive check
+      y_rep[i,j]  ~ dbern(z[i] * p)
+      ft_obs[i,j] <- pow(sqrt(y[i,j])     - sqrt(z[i] * p), 2)
+      ft_rep[i,j] <- pow(sqrt(y_rep[i,j]) - sqrt(z[i] * p), 2)
+    }
+  }
+
+  # --- Derived quantities ---
+  nocc     <- sum(z[])
+  mean_psi <- mean(psi[])
+
+  # Bayesian p-value (Freeman-Tukey statistic)
+  T_obs <- sum(ft_obs[,])
+  T_rep <- sum(ft_rep[,])
+  bpv   <- step(T_rep - T_obs)
+
+}

@@ -1,0 +1,25 @@
+model {
+
+  # --- Detection (constant) ---
+  alpha0 ~ dnorm(0, 1)
+  logit(p) <- alpha0
+
+  # --- Occupancy intercept ---
+  beta0 ~ dnorm(0, 1)
+
+  # --- Likelihood ---
+  for (i in 1:nSites) {
+
+    logit(psi[i]) <- beta0
+    z[i] ~ dbern(psi[i])
+
+    for (j in 1:nVisits) {
+      y[i,j] ~ dbern(z[i] * p)
+    }
+  }
+
+  # --- Derived ---
+  nocc     <- sum(z[])
+  mean_psi <- mean(psi[])
+
+}
