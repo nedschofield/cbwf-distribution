@@ -17,13 +17,14 @@
 # ---- Packages ------------------------------------------------------------
 
 library(dplyr)
-library(myutils) # github.com/nedschofield/myutils
+
+source("./scripts/functions/nci_thredds_download.R")
 
 # ---- Define download parameters ------------------------------------------
 
 base_url <- "https://thredds.nci.org.au/thredds/fileServer/zz63/NARCliM2-0-derived/output-CMIP6/bias-adjusted-output/AUS-18/NSW-Government"
 
-path_local_future_dir <- "./data/narclim"
+path_local_future_dir <- "./data/raster/narclim"
 
 years <- c(2040:2059, 2080:2099)
 
@@ -124,7 +125,7 @@ download_manifest <- download_manifest[download_manifest$exists == TRUE, ] |>
   group_by(gcm, ssp, rcm, variable, year) |>
   slice_max(order_by = version_date, n = 1, with_ties = FALSE) |>
   ungroup() |>
-  select(-version_date) |>
+  dplyr::select(-version_date) |>
   arrange(gcm, ssp, rcm, variable, version, year)
 
 # ---- Download files ------------------------------------------------------
@@ -132,7 +133,7 @@ download_manifest <- download_manifest[download_manifest$exists == TRUE, ] |>
 manifest_split <- split(download_manifest, download_manifest$out_dir)
 
 out_paths <- lapply(manifest_split, function(x) {
-  myutils::nci_thredds_download(
+  nci_thredds_download(
     download_urls = x$download_url,
     out_dir       = unique(x$out_dir),
     overwrite     = FALSE)

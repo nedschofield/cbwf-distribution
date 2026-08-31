@@ -79,8 +79,8 @@ corrplot(cor(cov_check, use = "complete.obs"),
          method = "number", type = "lower", diag = FALSE,
          tl.cex = 0.8, number.cex = 0.7)
 
-# PV and bare are strongly correlated with NPV; bare is excluded. PV and NPV are
-# retained as separate predictors — they represent distinct ecological processes
+# PV and NPV are strongly correlated with bare; bare is excluded. PV and NPV are retained
+# as separate moderately correlated predictors — they represent distinct ecological processes
 # (primary productivity vs. standing dry biomass driving the brown food web). Annual
 # rainfall and 6-month rainfall have some correlation; both are retained because they
 # represent different processes (long-term habitat suitability vs. recent resource
@@ -148,7 +148,7 @@ occu_null <- jags(
   data               = jags_data_null,
   inits              = inits_null,
   parameters.to.save = params_null,
-  model.file         = "./scripts/JAGS/occu_null.jags",
+  model.file         = "./scripts/2.1_occu_null.jags",
   n.chains  = 3,
   n.adapt   = 1000,
   n.iter    = 20000,
@@ -170,7 +170,7 @@ occu_global <- jags(
   data               = jags_data_global,
   inits              = inits_global,
   parameters.to.save = params_global,
-  model.file         = "./scripts/JAGS/occu_global.jags",
+  model.file         = "./scripts/2.2_occu_global.jags",
   n.chains  = 3,
   n.adapt   = 1000,
   n.iter    = 20000,
@@ -384,13 +384,28 @@ values(psi_hi_r) <- apply(psi_mat, 1, quantile, 0.975, na.rm = TRUE)
 rm(LP_mat, psi_mat)
 
 # Maps: posterior mean and 95% CrI
+# Anchor labels to each raster's own extent (rather than par("usr")), since
+# terra pads the plot region to preserve aspect ratio under mfrow, which
+# otherwise pushes par("usr")-based labels above the visible panel.
+add_panel_label <- function(r, label) {
+  e <- ext(r)
+  text(
+    x = e$xmax - 0.06 * (e$xmax - e$xmin),
+    y = e$ymax - 0.06 * (e$ymax - e$ymin),
+    labels = label, font = 2, cex = 1.3
+  )
+}
+
 par(mfrow = c(1, 3))
-plot(psi_r,    main = "Posterior mean psi", range = c(0, 1))
+plot(psi_r,    main = expression(paste("Posterior mean ", psi)), range = c(0, 1))
 points(sites, pch = 20, cex = 0.6)
-plot(psi_lo_r, main = "Lower 95% CrI psi", range = c(0, 1))
+add_panel_label(psi_r, "a")
+plot(psi_lo_r, main = expression(paste("Lower 95% CI ", psi)), range = c(0, 1))
 points(sites, pch = 20, cex = 0.6)
-plot(psi_hi_r, main = "Upper 95% CrI psi", range = c(0, 1))
+add_panel_label(psi_lo_r, "b")
+plot(psi_hi_r, main = expression(paste("Upper 95% CI ", psi)), range = c(0, 1))
 points(sites, pch = 20, cex = 0.6)
+add_panel_label(psi_hi_r, "c")
 par(mfrow = c(1, 1))
 occu_psi_plot <- recordPlot()
 
@@ -422,10 +437,10 @@ saveRDS(list(waic_null = waic_null, waic_global = waic_global),
 saveRDS(list(center = site_center, scale = site_scale),
         "./outputs/covariate_scaling_params.rds")
 
-ggsave("figures/updated_figs/occu_global_covar_coeffs.png", coef_plot,
+ggsave("figures/occu_global_covar_coeffs.png", coef_plot,
        width = 22, height = 18, units = "cm", dpi = 300)
 
-png("figures/updated_figs/occupancy_psi_maps.png",
+png("figures/occupancy_psi_maps.png",
     width = 24, height = 10, units = "cm", res = 300)
 replayPlot(occu_psi_plot)
 dev.off()

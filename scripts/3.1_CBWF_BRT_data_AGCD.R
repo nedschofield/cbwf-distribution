@@ -11,11 +11,13 @@
 #
 # These are used as predictors in the BRT species distribution model (script 3.3).
 
-# ---- Packages ------------------------------------------------------------
+# ---- Packages and setup --------------------------------------------------
 
 library(tidyverse)
 library(sf)
 library(terra)
+
+source("./scripts/functions/nci_thredds_download.R")
 
 # ---- CBWF records and study region ---------------------------------------
 
@@ -40,18 +42,9 @@ year <- 1950:2024
 
 file_urls <- paste0("https://thredds.nci.org.au/thredds/fileServer/zv2/agcd/v1-0-3/tmax/mean/r005/01day/agcd_v1_tmax_mean_r005_daily_", year, ".nc")
 
-path_local_daily_max_dir <- "./data/agcd/max_temp"
-if (!file.exists(path_local_daily_max_dir)) dir.create(path_local_daily_max_dir, recursive = TRUE)
+path_local_daily_max_dir <- "./data/raster/agcd/max_temp"
 
-out_paths <- file_urls %>% 
-  str_split("/", simplify = T) %>%
-  .[, 13] %>% 
-  file.path(path_local_daily_max_dir, .)
-
-options(timeout = 180)
-for (i in seq_along(out_paths)) {
-  if (!file.exists(out_paths[i])) download.file(url = file_urls[i], destfile = out_paths[i], mode = "wb")
-}
+out_paths <- nci_thredds_download(download_urls = file_urls, out_dir = path_local_daily_max_dir, overwrite = FALSE)
 
 # ---- Extreme heat days per cell ------------------------------------------
 
@@ -101,18 +94,9 @@ year <- 1950:2024
 
 file_urls <- paste0("https://thredds.nci.org.au/thredds/fileServer/zv2/agcd/v2-0-3/precip/total/r001/01month/agcd_v2_precip_total_r001_monthly_", year, ".nc")
 
-path_local_rainfall_dir <- "./data/agcd/rainfall"
-if (!file.exists(path_local_rainfall_dir)) dir.create(path_local_rainfall_dir, recursive = TRUE)
+path_local_rainfall_dir <- "./data/raster/agcd/rainfall"
 
-out_paths <- file_urls %>% 
-  str_split("/", simplify = T) %>%
-  .[, 13] %>% 
-  file.path(path_local_rainfall_dir, .)
-
-options(timeout = 180)
-for (i in seq_along(out_paths)) {
-  if (!file.exists(out_paths[i])) download.file(url = file_urls[i], destfile = out_paths[i], mode = "wb")
-}
+out_paths <- nci_thredds_download(download_urls = file_urls, out_dir = path_local_rainfall_dir, overwrite = FALSE)
 
 # ---- Annual rainfall per cell --------------------------------------------
 

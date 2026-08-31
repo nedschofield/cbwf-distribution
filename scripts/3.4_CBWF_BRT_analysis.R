@@ -104,7 +104,7 @@ terra_hist_plot <- recordPlot()
 
 # ---- Predict to NARCliM future scenarios --------------------------------
 # Ensemble NetCDFs: one for days_over_threshold (heat), one for rainfall (rain)
-# per SSP x period combination. Predictions written to outputs/narclim/predictions/
+# per SSP x period combination. Predictions written to outputs/raster/narclim/predictions/
 
 ssps    <- c("ssp126", "ssp245", "ssp370")
 periods <- c("2040-2059", "2080-2099")
@@ -113,9 +113,9 @@ for (ssp in ssps) {
   for (period in periods) {
 
     # Load ensemble mean heat and rainfall
-    nc_tmax <- nc_open(file.path("outputs/narclim/ensemble",
+    nc_tmax <- nc_open(file.path("outputs/raster/narclim/ensemble",
                                   paste0(ssp, "_", period, "_ensemble_mean.nc")))
-    nc_rain <- nc_open(file.path("outputs/narclim/ensemble",
+    nc_rain <- nc_open(file.path("outputs/raster/narclim/ensemble",
                                   paste0(ssp, "_", period, "_rainfall_ensemble_mean.nc")))
 
     heat_vals  <- as.vector(ncvar_get(nc_tmax, "days_over_threshold"))
@@ -151,7 +151,7 @@ for (ssp in ssps) {
     var_lon  <- ncvar_def("lon", "degrees_east",  list(dim_rlon, dim_rlat),
                            longname = "geographic longitude")
 
-    out_path <- file.path("outputs/narclim/predictions",
+    out_path <- file.path("outputs/raster/narclim/predictions",
                            paste0(ssp, "_", period, "_cbwf_occupancy.nc"))
     dir.create(dirname(out_path), recursive = TRUE, showWarnings = FALSE)
 
@@ -182,7 +182,7 @@ template_wgs84 <- rast(
 narclim_layers <- lapply(ssps, function(ssp) {
   lapply(periods, function(period) {
 
-    nc <- nc_open(file.path("outputs/narclim/predictions",
+    nc <- nc_open(file.path("outputs/raster/narclim/predictions",
                              paste0(ssp, "_", period, "_cbwf_occupancy.nc")))
     preds <- as.vector(ncvar_get(nc, "occupancy_prob"))
     lon   <- as.vector(ncvar_get(nc, "lon"))
@@ -250,12 +250,12 @@ plot_occupancy <- function(layer, title) {
     scale_fill_whitebox_c(palette = "viridi", na.value = NA,
                           name = "Occ. prob.", limits = c(0, 1)) +
     geom_spatvector(data = abs_all,
-                    aes(colour = "Survey sites (absent)"), shape = 1, size = 0.8) +
+                    aes(colour = "Historical records/survey sites"), shape = 1, size = 0.8) +
     geom_spatvector(data = pres_2024,
                     aes(colour = "Detections 2024"), shape = 1, size = 0.8) +
     scale_colour_manual(
       name   = NULL,
-      values = c("Survey sites (absent)" = "black", "Detections 2024" = "red"),
+      values = c("Historical records/survey sites" = "black", "Detections 2024" = "red"),
       guide  = guide_legend(override.aes = list(shape = 1, size = 2))
     ) +
     geom_point(data = cp_df, aes(x = x, y = y),
@@ -278,8 +278,11 @@ plot_occupancy <- function(layer, title) {
 }
 
 # Historical predictions: 1 row x 3 cols
-hist_plots <- lapply(names(brt.out), function(nm) {
-  plot_occupancy(brt.out[[nm]], sub("pred_", "", nm))
+hist_plots <- lapply(seq_along(names(brt.out)), function(i) {
+  nm <- names(brt.out)[i]
+  plot_occupancy(brt.out[[nm]], sub("pred_", "", nm)) +
+    annotate("text", x = Inf, y = Inf, label = letters[i],
+             hjust = 2.5, vjust = 1.5, fontface = "bold", size = 3.5)
 })
 
 hist_clim_brt_preds <- wrap_plots(hist_plots, nrow = 1) +
@@ -289,8 +292,12 @@ hist_clim_brt_preds
 
 # NARCliM predictions: 2 rows x 3 cols (mid-century top, late-century bottom)
 # Titles removed — replaced with row/column strip labels
-future_plots <- lapply(names(narclim.out), function(nm) {
-  plot_occupancy(narclim.out[[nm]], title = "") + theme(plot.title = element_blank())
+future_plots <- lapply(seq_along(names(narclim.out)), function(i) {
+  nm <- names(narclim.out)[i]
+  plot_occupancy(narclim.out[[nm]], title = "") +
+    theme(plot.title = element_blank()) +
+    annotate("text", x = Inf, y = Inf, label = letters[i],
+             hjust = 2.5, vjust = 1.5, fontface = "bold", size = 5)
 })
 
 # Helper for strip label plots
