@@ -1,0 +1,441 @@
+﻿site,transect,cell,period,latitude,longitude,date,observer,time_started,time_num,wind_conditions,temperature,light_conditions,rain_conditions,hab_category,CBWF,flora,playback,prev_observed,southern_whiteface,yellow-throated_miner,white-winged_fairywren
+AC1,A,1,A1,-28.72463249,136.0188377,10/09/2024,DAW,7:10:00,7.17,light,cool,sunny,none,Chenopod shrubland,0,,,Y,0,0,0
+AC1,A,2,A2,-28.72462503,136.0211227,10/09/2024,DAW,7:30:00,7.5,light,cool,sunny,none,Chenopod shrubland,0,,,Y,0,0,0
+AC1,A,5,A5,-28.72460178,136.0233983,10/09/2024,DAW,8:30:00,8.5,light,cool,sunny,none,Chenopod shrubland,0,,,Y,0,0,0
+AC1,B,3,B3,-28.72459267,136.0256935,10/09/2024,NRS,8:00:00,8,light,cool,sunny,none,Chenopod shrubland,0,,,Y,0,0,0
+AC1,B,4,B4,-28.72456884,136.02799,10/09/2024,NRS,8:20:00,8.33,light,cool,sunny,none,Chenopod shrubland,0,,,Y,0,0,7
+AC1,B,5,B5,-28.728667,136.018911,10/09/2024,NRS,8:40:00,8.67,light,cool,sunny,none,Chenopod shrubland,0,,,Y,0,0,0
+AC1,A,3,A3,-28.72869,136.021102,10/09/2024,DAW,7:50:00,7.83,moderate,cool,sunny,none,Low chenopod shrubland,0,,,Y,0,0,0
+AC1,A,4,A4,-28.728625,136.023491,10/09/2024,DAW,8:10:00,8.17,moderate,cool,sunny,none,Low chenopod shrubland,0,,,Y,0,0,4
+AC1,B,1,B1,-28.728506,136.025788,10/09/2024,NRS,7:20:00,7.33,still,cool,sunny,none,Low chenopod shrubland,0,,,Y,0,0,4
+AC1,B,2,B2,-28.728559,136.027969,10/09/2024,NRS,7:40:00,7.67,still,cool,sunny,none,Low chenopod shrubland,0,,,Y,0,0,6
+BB1,A,2,A2,-30.413453,135.477876,11/06/2024,NRS,7:42:00,7.7,moderate,cool,sunny,none,Eremophila shrubland,3,Eremophila,Yes,Y,0,0,0
+BB1,B,3,B3,-30.411448,135.477938,11/06/2024,DAW,8:05:00,8.08,moderate,cool,sunny,none,Eremophila shrubland,2,Eremophila,No,Y,4,0,0
+BB1,B,2,B2,-30.409649,135.477823,11/06/2024,DAW,8:25:00,8.42,moderate,cool,sunny,none,Eremophila shrubland,2,Eremophila,Yes,Y,0,0,0
+BB1,A,4,A4,-30.407784,135.477593,11/06/2024,NRS,8:21:00,8.35,moderate,cool,sunny,none,Acacia shrubland,2,Acacia,No,Y,3,0,0
+BB1,A,1,A1,-30.405364,135.477875,11/06/2024,NRS,7:22:00,7.37,moderate,cool,sunny,none,Eremophila shrubland,0,,,Y,0,0,0
+BB1,A,3,A3,-30.40537403,135.4825,11/06/2024,NRS,8:00:00,8,moderate,cool,sunny,none,Eremophila shrubland,0,,,Y,0,0,0
+BB1,A,5,A5,-30.40740277,135.4825,11/06/2024,NRS,8:45:00,8.75,moderate,cool,sunny,none,Eremophila shrubland,0,,,Y,4,0,0
+BB1,B,5,B5,-30.40942244,135.4825,11/06/2024,DAW,7:25:00,7.42,moderate,cool,sunny,none,Eremophila shrubland,0,,,Y,3,0,0
+BB1,B,4,B4,-30.41147423,135.4825,11/06/2024,DAW,7:45:00,7.75,moderate,cool,sunny,none,Eremophila shrubland,0,,,Y,0,0,0
+BB1,B,1,B1,-30.41346294,135.4826,11/06/2024,DAW,8:45:00,8.75,moderate,cool,sunny,none,Eremophila shrubland,0,,,Y,0,0,0
+BB10,A,3,A3,-30.5658,135.4451,10/08/2024,PT,8:30:00,8.5,light,cool,sunny,none,Chenopod shrubland,0,,,Y,0,0,1
+BB10,B,4,B4,-30.5679,135.4451,10/08/2024,PT,10:01:00,10.02,light,cool,sunny,none,Chenopod shrubland,0,,,Y,0,0,1
+BB10,B,1,B1,-30.5698,135.4452,10/08/2024,PT,11:01:00,11.02,light,cool,sunny,none,Chenopod shrubland,0,,,Y,0,1,3
+BB10,B,5,B5,-30.5718,135.4451,10/08/2024,PT,9:41:00,9.68,light,cool,sunny,none,Chenopod shrubland,6,,No,Y,0,0,0
+BB10,A,4,A4,-30.5739,135.4452,10/08/2024,PT,8:50:00,8.83,moderate,cool,sunny,none,Chenopod shrubland,0,,,Y,0,0,3
+BB10,A,5,A5,-30.5739,135.4497,10/08/2024,PT,9:13:00,9.22,moderate,cool,sunny,none,Chenopod shrubland,2,,Yes,Y,0,0,7
+BB10,A,1,A1,-30.5719,135.4498,10/08/2024,PT,7:48:00,7.8,light,cool,sunny,none,Eremophila shrubland,2,Eremophila,Yes,Y,0,0,3
+BB10,B,3,B3,-30.5699,135.4497,10/08/2024,PT,10:21:00,10.35,light,cool,sunny,none,Eremophila shrubland,0,,,Y,0,0,6
+BB10,B,2,B2,-30.5678,135.4498,10/08/2024,PT,10:41:00,10.68,light,cool,sunny,none,Eremophila shrubland,0,,,Y,0,0,0
+BB10,A,2,A2,-30.5659,135.4498,10/08/2024,PT,8:10:00,8.17,light,cool,sunny,none,Sparse Acacia papyrocarpa woodland,0,,,Y,0,0,4
+BB2,A,5,A5,-30.409266,135.524591,11/06/2024,NRS,11:23:00,11.38,moderate,cool,partly cloudy,none,Chenopod shrubland,2,Acacia,Yes,Y,0,0,0
+BB2,B,5,B5,-30.407535,135.524396,11/06/2024,DAW,10:00:00,10,moderate,cool,partly cloudy,none,Chenopod shrubland,4,Maireana,No,Y,0,0,0
+BB2,A,1,A1,-30.40551,135.524367,11/06/2024,NRS,10:03:00,10.05,moderate,cool,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,0
+BB2,A,2,A2,-30.403206,135.524051,11/06/2024,NRS,10:23:00,10.38,moderate,cool,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,0
+BB2,A,3,A3,-30.401089,135.524411,11/06/2024,NRS,10:43:00,10.72,moderate,cool,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,0
+BB2,A,4,A4,-30.31444059,135.537,11/06/2024,NRS,11:03:00,11.05,moderate,cool,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,0
+BB2,B,4,B4,-30.31648326,135.5371,11/06/2024,DAW,10:20:00,10.33,moderate,cool,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,0
+BB2,B,3,B3,-30.31846367,135.5371,11/06/2024,DAW,10:40:00,10.67,moderate,cool,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,0
+BB2,B,2,B2,-30.3204914,135.5371,11/06/2024,DAW,11:00:00,11,moderate,cool,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,0
+BB2,B,1,B1,-30.32251144,135.5371,11/06/2024,DAW,11:20:00,11.33,moderate,cool,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,0
+BB3,A,3,A3,-30.356638,135.577769,12/06/2024,DAW,8:00:00,8,still,cool,partly cloudy,none,Acacia shrubland,0,,,Y,0,0,3
+BB3,A,2,A2,-30.354228,135.577329,12/06/2024,DAW,8:20:00,8.33,still,cool,partly cloudy,none,Acacia shrubland,0,,,Y,0,0,0
+BB3,A,1,A1,-30.35261,135.577796,12/06/2024,DAW,8:40:00,8.67,light,cool,partly cloudy,none,Acacia shrubland,2,,No,Y,0,0,6
+BB3,B,2,B2,-30.350247,135.57762,12/06/2024,NRS,7:41:00,7.68,still,cool,partly cloudy,none,Acacia shrubland,0,,,Y,0,0,0
+BB3,B,3,B3,-30.349078,135.577469,12/06/2024,NRS,8:03:00,8.05,still,cool,partly cloudy,none,Acacia shrubland,0,,,Y,0,0,1
+BB3,B,1,B1,-30.1123565,135.8547,12/06/2024,NRS,7:19:00,7.32,still,cool,partly cloudy,none,Acacia shrubland,0,,,Y,0,0,0
+BB3,B,5,B5,-30.11236776,135.857,12/06/2024,NRS,8:43:00,8.72,light,cool,partly cloudy,none,Acacia shrubland,6,,Yes,Y,0,0,4
+BB3,B,4,B4,-30.11232653,135.8593,12/06/2024,NRS,8:23:00,8.38,still,cool,partly cloudy,none,Acacia shrubland,0,,,Y,0,0,5
+BB3,A,5,A5,-30.11237353,135.8616,12/06/2024,DAW,7:15:00,7.25,still,cool,partly cloudy,none,Chenopod shrubland,4,Maireana,Yes,Y,0,0,4
+BB3,A,4,A4,-30.11232474,135.864,12/06/2024,DAW,7:40:00,7.67,still,cool,partly cloudy,none,Low chenopod shrubland,0,,,Y,1,0,8
+BB4,B,3,B3,-30.368571,135.635097,12/06/2024,NRS,13:41:00,13.68,light,cool,mostly cloudy,none,Chenopod shrubland,2,Acacia,No,Y,0,0,3
+BB4,B,1,B1,-30.366196,135.635438,12/06/2024,NRS,13:01:00,13.02,light,cool,mostly cloudy,none,Chenopod shrubland,0,,,Y,0,0,0
+BB4,B,2,B2,-30.364357,135.635152,12/06/2024,NRS,13:21:00,13.35,light,cool,mostly cloudy,none,Chenopod shrubland,0,,,Y,0,0,0
+BB4,B,4,B4,-30.362379,135.634706,12/06/2024,NRS,14:02:00,14.03,light,cool,mostly cloudy,none,Chenopod shrubland,0,,,Y,0,0,3
+BB4,B,5,B5,-30.360243,135.634746,12/06/2024,NRS,14:26:00,14.43,light,cool,mostly cloudy,none,Low chenopod shrubland,1,Acacia,Yes,Y,0,0,0
+BB4,A,1,A1,-30.31882658,135.7519,12/06/2024,DAW,14:15:00,14.25,light,cool,mostly cloudy,none,Low chenopod shrubland,0,,,Y,0,0,3
+BB4,A,3,A3,-30.32083053,135.7518,12/06/2024,DAW,13:35:00,13.58,light,cool,mostly cloudy,none,Low chenopod shrubland,1,Maireana,No,Y,0,0,0
+BB4,A,2,A2,-30.32286883,135.7518,12/06/2024,DAW,13:55:00,13.92,light,cool,mostly cloudy,none,Low chenopod shrubland,1,Senna,Yes,Y,0,0,5
+BB4,A,5,A5,-30.32487968,135.7519,12/06/2024,DAW,12:55:00,12.92,light,cool,mostly cloudy,none,Low chenopod shrubland,0,,,Y,1,0,22
+BB4,A,4,A4,-30.32690877,135.7519,12/06/2024,DAW,13:15:00,13.25,light,cool,mostly cloudy,none,Low chenopod shrubland,0,,,Y,0,0,0
+BB5,A,5,A5,-30.322407,135.541902,12/06/2024,DAW,9:50:00,9.83,light,cool,partly cloudy,none,Acacia shrubland,0,,,Y,2,0,0
+BB5,A,4,A4,-30.320868,135.541881,12/06/2024,DAW,10:10:00,10.17,light,cool,partly cloudy,none,Acacia shrubland,2,Acacia,No,Y,2,0,5
+BB5,A,2,A2,-30.318374,135.541553,12/06/2024,DAW,10:50:00,10.83,light,cool,mostly cloudy,none,Acacia shrubland,4,Maireana,Yes,Y,0,0,0
+BB5,A,3,A3,-30.316344,135.541623,12/06/2024,DAW,10:30:00,10.5,light,cool,partly cloudy,none,Acacia shrubland,0,,,Y,0,0,5
+BB5,A,1,A1,-30.314392,135.541299,12/06/2024,DAW,11:10:00,11.17,light,cool,mostly cloudy,none,Acacia shrubland,0,,,Y,0,0,4
+BB5,B,1,B1,-30.34859984,135.5729,12/06/2024,NRS,9:52:00,9.87,light,cool,partly cloudy,none,Acacia shrubland,0,,,Y,2,0,6
+BB5,B,2,B2,-30.35060251,135.573,12/06/2024,NRS,10:12:00,10.2,light,cool,partly cloudy,none,Acacia shrubland,0,,,Y,0,0,0
+BB5,B,5,B5,-30.35262769,135.573,12/06/2024,NRS,11:12:00,11.2,light,cool,mostly cloudy,none,Chenopod shrubland,2,Aristida,No,Y,0,0,0
+BB5,B,3,B3,-30.35462243,135.573,12/06/2024,NRS,10:32:00,10.53,light,cool,partly cloudy,none,Chenopod shrubland,2,,Yes,Y,0,0,0
+BB5,B,4,B4,-30.35672337,135.573,12/06/2024,NRS,10:52:00,10.87,light,cool,mostly cloudy,none,Low chenopod shrubland,0,,,Y,0,0,8
+BB6,B,5,B5,-30.28625437,135.3924503,8/08/2024,DAW,17:20:00,17.33,light,cool,partly cloudy,none,Chenopod shrubland,1,Eremophila,No,Y,0,0,0
+BB6,B,3,B3,-30.28422302,135.3924555,8/08/2024,DAW,16:40:00,16.67,light,warm,mostly cloudy,none,Chenopod shrubland,4,Maireana,Yes,Y,0,0,0
+BB6,A,3,A3,-30.2821193,135.3923691,8/08/2024,SLG,16:43:00,16.72,light,warm,mostly cloudy,none,Chenopod shrubland,1,Maireana,Yes,Y,0,0,0
+BB6,B,4,B4,-30.28016573,135.3924681,8/08/2024,DAW,17:00:00,17,light,cool,mostly cloudy,none,Chenopod shrubland,2,Maireana,Yes,Y,0,0,5
+BB6,A,5,A5,-30.2782059,135.3924592,8/08/2024,SLG,17:23:00,17.38,light,warm,mostly cloudy,none,Chenopod shrubland,2,Maireana,No,Y,0,0,3
+BB6,A,1,A1,-30.28624755,135.3970959,8/08/2024,SLG,16:03:00,16.05,light,warm,mostly cloudy,none,Chenopod shrubland,0,,,Y,0,0,0
+BB6,A,2,A2,-30.28423903,135.3971103,8/08/2024,SLG,16:23:00,16.38,light,warm,mostly cloudy,none,Chenopod shrubland,0,,,Y,0,0,4
+BB6,B,2,B2,-30.28222306,135.3970973,8/08/2024,DAW,16:20:00,16.33,light,warm,mostly cloudy,none,Chenopod shrubland,0,,,Y,0,0,0
+BB6,A,4,A4,-30.28020086,135.3970829,8/08/2024,SLG,17:03:00,17.05,light,warm,mostly cloudy,none,Chenopod shrubland,2,,Yes,Y,0,0,3
+BB6,B,1,B1,-30.27818473,135.3970887,8/08/2024,DAW,16:00:00,16,light,warm,mostly cloudy,none,Chenopod shrubland,0,,,Y,0,0,0
+BB7,B,5,B5,-30.36298248,135.3896722,8/08/2024,DAW,10:54:00,10.9,very strong,cool,mostly cloudy,none,Chenopod shrubland,1,Maireana,No,Y,0,0,0
+BB7,B,4,B4,-30.36091274,135.3897392,8/08/2024,DAW,10:34:00,10.57,very strong,cool,mostly cloudy,none,Chenopod shrubland,0,,,Y,0,0,4
+BB7,A,1,A1,-30.35874398,135.3897163,8/08/2024,SLG,9:42:00,9.7,strong,cool,mostly cloudy,none,Chenopod shrubland,0,,,Y,0,0,3
+BB7,A,3,A3,-30.35690808,135.3896742,8/08/2024,SLG,10:22:00,10.37,strong,cool,mostly cloudy,none,Chenopod shrubland,2,Maireana,Yes,Y,0,0,0
+BB7,A,2,A2,-30.35476713,135.3896084,8/08/2024,SLG,10:02:00,10.03,strong,cool,mostly cloudy,none,Chenopod shrubland,0,,,Y,0,0,4
+BB7,B,1,B1,-30.36292247,135.3943288,8/08/2024,DAW,9:34:00,9.57,very strong,cool,mostly cloudy,none,Chenopod shrubland,0,,,Y,0,0,0
+BB7,B,2,B2,-30.36089613,135.3943379,8/08/2024,DAW,9:54:00,9.9,very strong,cool,mostly cloudy,none,Chenopod shrubland,0,,,Y,0,0,5
+BB7,B,3,B3,-30.35888874,135.3943193,8/08/2024,DAW,10:14:00,10.23,very strong,cool,mostly cloudy,none,Chenopod shrubland,1,,No,Y,0,0,1
+BB7,A,4,A4,-30.35688856,135.3943295,8/08/2024,SLG,10:42:00,10.7,strong,cool,mostly cloudy,none,Low chenopod shrubland,0,,,Y,0,0,0
+BB7,A,5,A5,-30.35485691,135.3943136,8/08/2024,SLG,11:02:00,11.03,strong,cool,mostly cloudy,none,Low chenopod shrubland,0,,,Y,0,0,3
+BB8,A,1,A1,-30.794225,135.398817,14/06/2024,DAW,8:45:00,8.75,moderate,cool,partly cloudy,none,Acacia & Melaleuca sparse woodland  sandy dunes,0,,,Y,0,0,4
+BB8,B,5,B5,-30.792056,135.398983,14/06/2024,NRS,8:49:00,8.82,moderate,cool,sunny,none,Acacia shrubland,0,,,Y,0,0,1
+BB8,B,3,B3,-30.790038,135.39868,14/06/2024,NRS,8:07:00,8.12,light,cool,sunny,none,Chenopod shrubland,0,,,Y,0,0,0
+BB8,A,3,A3,-30.787897,135.398904,14/06/2024,DAW,8:05:00,8.08,moderate,cool,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,0
+BB8,A,2,A2,-30.785959,135.398792,14/06/2024,DAW,8:25:00,8.42,moderate,cool,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,0
+BB8,B,1,B1,-30.80609481,135.3757,14/06/2024,NRS,7:24:00,7.4,strong,cool,overcast,none,Chenopod shrubland,0,,,Y,0,0,0
+BB8,B,2,B2,-30.80597884,135.378,14/06/2024,NRS,7:47:00,7.78,strong,cool,overcast,none,Chenopod shrubland,0,,,Y,0,0,0
+BB8,B,4,B4,-30.80607002,135.3803,14/06/2024,NRS,8:29:00,8.48,moderate,cool,sunny,none,Chenopod shrubland,0,,,Y,2,0,13
+BB8,A,4,A4,-30.80611396,135.3827,14/06/2024,DAW,7:45:00,7.75,moderate,cool,partly cloudy,none,Low chenopod shrubland,0,,,Y,2,0,6
+BB8,A,5,A5,-30.80604086,135.385,14/06/2024,DAW,7:25:00,7.42,strong,cool,partly cloudy,none,Low chenopod shrubland,0,,,Y,0,0,5
+BB9,B,3,B3,-30.802145,135.384785,14/06/2024,DAW,10:30:00,10.5,strong,cool,sunny,none,Acacia aneura woodland,0,,,Y,2,0,0
+BB9,B,5,B5,-30.801939,135.382336,14/06/2024,DAW,9:50:00,9.83,moderate,cool,sunny,none,Acacia shrubland,0,,,Y,0,0,0
+BB9,A,3,A3,-30.802311,135.379819,14/06/2024,NRS,10:24:00,10.4,strong,cool,sunny,none,Acacia shrubland,0,,,Y,2,0,0
+BB9,B,1,B1,-30.801763,135.377694,14/06/2024,DAW,11:10:00,11.17,strong,cool,partly cloudy,none,Acacia shrubland,0,,,Y,0,0,0
+BB9,B,4,B4,-30.802255,135.375395,14/06/2024,DAW,10:10:00,10.17,strong,cool,sunny,none,Acacia shrubland,0,,,Y,0,0,0
+BB9,A,2,A2,-30.40118178,135.529,14/06/2024,NRS,10:04:00,10.07,strong,cool,sunny,none,Acacia shrubland,0,,,Y,8,0,8
+BB9,A,4,A4,-30.40323146,135.5291,14/06/2024,NRS,10:44:00,10.73,strong,cool,sunny,none,Acacia shrubland,0,,,Y,2,2,0
+BB9,A,5,A5,-30.40523664,135.5291,14/06/2024,NRS,11:05:00,11.08,strong,cool,sunny,none,Acacia shrubland,0,,,Y,2,0,0
+BB9,A,1,A1,-30.40730026,135.5291,14/06/2024,NRS,9:44:00,9.73,moderate,cool,sunny,none,Eremophila shrubland,0,,,Y,0,0,0
+BB9,B,2,B2,-30.40927542,135.5291,14/06/2024,DAW,10:50:00,10.83,strong,cool,partly cloudy,none,Sparse Acacia papyrocarpa woodland,0,,,Y,2,0,4
+CA1,A,5,A5,-29.66834018,138.0257823,11/09/2024,DAW,11:55:00,11.92,light,warm,partly cloudy,none,Chenopod shrubland,0,,,N,0,0,0
+CA1,B,2,B2,-29.67036726,138.0257131,11/09/2024,NRS,10:50:00,10.83,light,warm,sunny,none,Chenopod shrubland,0,,,N,0,0,2
+CA1,B,4,B4,-29.67236794,138.0256634,11/09/2024,NRS,11:30:00,11.5,light,warm,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+CA1,B,5,B5,-29.67438545,138.0255958,11/09/2024,NRS,11:50:00,11.83,light,warm,sunny,none,Chenopod shrubland,0,,,N,0,0,7
+CA1,A,4,A4,-29.67639629,138.0255351,11/09/2024,DAW,11:35:00,11.58,still,warm,partly cloudy,none,Chenopod shrubland,0,,,N,0,0,2
+CA1,B,3,B3,-29.668512,138.030499,11/09/2024,NRS,11:10:00,11.17,still,warm,sunny,none,Chenopod shrubland,0,,,N,0,0,2
+CA1,A,1,A1,-29.670503,138.030332,11/09/2024,DAW,10:35:00,10.58,light,warm,partly cloudy,none,Low chenopod shrubland,0,,,N,0,0,6
+CA1,A,2,A2,-29.672545,138.030286,11/09/2024,DAW,10:55:00,10.92,still,warm,partly cloudy,none,Low chenopod shrubland,0,,,N,0,0,4
+CA1,A,3,A3,-30,138.030175,11/09/2024,DAW,11:15:00,11.25,still,warm,partly cloudy,none,Low chenopod shrubland,0,,,N,0,0,7
+CA1,B,1,B1,-29.676472,138.030073,11/09/2024,NRS,10:30:00,10.5,light,warm,sunny,none,Low chenopod shrubland,0,,,N,0,0,3
+CA2,A,1,A1,-29.63801581,137.8800809,11/09/2024,DAW,7:18:00,7.3,still,cool,overcast,none,Chenopod shrubland,0,,,N,0,0,3
+CA2,A,3,A3,-29.63807149,137.8823928,11/09/2024,DAW,7:58:00,7.97,still,cool,mostly cloudy,none,Chenopod shrubland,0,,,N,0,0,0
+CA2,A,5,A5,-29.63813628,137.8846884,11/09/2024,DAW,8:38:00,8.63,still,cool,mostly cloudy,none,Chenopod shrubland,0,,,N,0,0,0
+CA2,B,1,B1,-29.63819175,137.8870008,11/09/2024,NRS,7:20:00,7.33,still,cool,overcast,none,Chenopod shrubland,0,,,N,0,0,4
+CA2,B,2,B2,-29.63823587,137.88929,11/09/2024,NRS,7:40:00,7.67,still,cool,overcast,none,Chenopod shrubland,0,,,N,0,0,2
+CA2,B,3,B3,-29.64202,137.879863,11/09/2024,NRS,8:00:00,8,still,cool,overcast,none,Chenopod shrubland,0,,,N,0,0,5
+CA2,B,4,B4,-29.641981,137.882238,11/09/2024,NRS,8:20:00,8.33,still,cool,mostly cloudy,none,Chenopod shrubland,0,,,N,0,0,2
+CA2,B,5,B5,-29.642176,137.884544,11/09/2024,NRS,8:40:00,8.67,still,cool,mostly cloudy,none,Chenopod shrubland,0,,,N,0,0,3
+CA2,A,2,A2,-29.642202,137.886858,11/09/2024,DAW,7:38:00,7.63,still,cool,mostly cloudy,none,Chenopod shrubland,0,,,N,0,0,0
+CA2,A,4,A4,-29.642315,137.889127,11/09/2024,DAW,8:18:00,8.3,still,cool,mostly cloudy,none,Chenopod shrubland,0,,,N,0,0,8
+CO1,A,1,A1,-30.96278446,135.7247841,7/08/2024,DAW,10:18:00,10.3,strong,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+CO1,B,3,B3,-30.96075965,135.7247665,7/08/2024,SLG,11:00:00,11,moderate,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,4
+CO1,B,4,B4,-30.95874708,135.7247568,7/08/2024,SLG,11:20:00,11.33,moderate,cool,sunny,none,Chenopod shrubland,0,,,N,0,1,4
+CO1,B,2,B2,-30.95673315,135.7247316,7/08/2024,SLG,10:40:00,10.67,strong,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+CO1,B,1,B1,-30.95471755,135.7247157,7/08/2024,SLG,10:20:00,10.33,strong,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,3
+CO1,A,5,A5,-30.96265015,135.7293237,7/08/2024,DAW,11:38:00,11.63,moderate,cool,sunny,none,Eremophila shrubland,2,Eremophila,Yes,N,0,0,8
+CO1,A,3,A3,-30.96066171,135.7294637,7/08/2024,DAW,10:58:00,10.97,moderate,cool,sunny,none,Eremophila shrubland,0,,,N,0,0,0
+CO1,A,4,A4,-30.95875964,135.7293921,7/08/2024,DAW,11:18:00,11.3,moderate,cool,sunny,none,Eremophila shrubland,0,,,N,0,4,0
+CO1,B,5,B5,-30.956649,135.7293133,7/08/2024,SLG,11:40:00,11.67,moderate,cool,sunny,none,Low chenopod shrubland,0,,,N,0,3,0
+CO1,A,2,A2,-30.95471161,135.729409,7/08/2024,DAW,10:38:00,10.63,strong,cool,sunny,none,Low chenopod shrubland,0,,,N,0,0,3
+CO2,B,3,B3,-30.92746586,135.4325262,7/08/2024,SLG,8:24:00,8.4,still,cool,sunny,none,Chenopod shrubland,1,Atriplex,Yes,Y,0,0,7
+CO2,B,5,B5,-30.92545936,135.4325184,7/08/2024,SLG,9:04:00,9.07,light,cool,sunny,none,Chenopod shrubland,0,,,Y,0,2,0
+CO2,B,4,B4,-30.92344663,135.4325378,7/08/2024,SLG,8:44:00,8.73,light,cool,sunny,none,Chenopod shrubland,0,,,Y,0,0,0
+CO2,A,5,A5,-30.9214299,135.4324978,7/08/2024,DAW,9:03:00,9.05,light,cool,sunny,none,Chenopod shrubland,0,,,Y,0,0,3
+CO2,B,1,B1,-30.91941526,135.4325075,7/08/2024,SLG,7:44:00,7.73,still,cool,sunny,none,Low chenopod shrubland,3,Maireana,No,Y,2,0,6
+CO2,A,1,A1,-30.9274638,135.437282,7/08/2024,DAW,7:43:00,7.72,still,cool,sunny,none,Low chenopod shrubland,0,,,Y,0,0,4
+CO2,B,2,B2,-30.92544737,135.4373374,7/08/2024,SLG,8:04:00,8.07,still,cool,sunny,none,Low chenopod shrubland,0,,,Y,0,0,0
+CO2,A,4,A4,-30.92355909,135.437066,7/08/2024,DAW,8:43:00,8.72,light,cool,sunny,none,Low chenopod shrubland,0,,,Y,0,0,5
+CO2,A,2,A2,-30.92151802,135.4371908,7/08/2024,DAW,8:03:00,8.05,still,cool,sunny,none,Low chenopod shrubland,0,,,Y,0,0,3
+CO2,A,3,A3,-30.91934416,135.4371105,7/08/2024,DAW,8:23:00,8.38,still,cool,sunny,none,Low chenopod shrubland,0,,,Y,0,0,5
+CP2,B,2,B2,-29.06850422,134.8604718,7/09/2024,NRS,11:07:00,11.12,light,cool,overcast,none,Chenopod shrubland,0,,,N,0,0,0
+CP2,A,4,A4,-29.06851145,134.8581721,7/09/2024,DAW,11:45:00,11.75,moderate,cool,overcast,none,Chenopod shrubland,0,,,N,0,0,0
+CP2,B,4,B4,-29.06850304,134.8558777,7/09/2024,NRS,11:47:00,11.78,light,cool,overcast,none,Chenopod shrubland,3,Maireana,Yes,N,0,0,2
+CP2,B,1,B1,-29.06849844,134.8535836,7/09/2024,NRS,10:47:00,10.78,light,cool,overcast,none,Chenopod shrubland,0,,,N,0,0,5
+CP2,B,5,B5,-29.06849367,134.8512721,7/09/2024,NRS,12:07:00,12.12,light,cool,overcast,none,Chenopod shrubland,1,Acacia,No,N,0,0,3
+CP2,B,3,B3,-29.072439,134.860331,7/09/2024,NRS,11:27:00,11.45,light,cool,overcast,none,Chenopod shrubland,0,,,N,0,0,2
+CP2,A,5,A5,-29.012471,134.858198,7/09/2024,DAW,12:05:00,12.08,moderate,cool,overcast,none,Chenopod shrubland,1,Maireana,No,N,0,0,2
+CP2,A,1,A1,-29.072464,134.855837,7/09/2024,DAW,10:45:00,10.75,moderate,cool,overcast,none,Chenopod shrubland,0,,,N,0,0,1
+CP2,A,2,A2,-29.07248,134.853713,7/09/2024,DAW,11:05:00,11.08,moderate,cool,overcast,none,Chenopod shrubland,0,,,N,0,0,1
+CP2,A,3,A3,-29.072509,134.851376,7/09/2024,DAW,11:25:00,11.42,moderate,cool,overcast,none,Chenopod shrubland,0,,,N,0,0,3
+IN1,B,1,B1,-29.57674477,135.0792738,6/08/2024,SLG,10:29:00,10.48,still,warm,sunny,none,Chenopod shrubland,4,Maireana,Yes,Y,0,0,2
+IN1,A,1,A1,-29.57473192,135.0792823,6/08/2024,DAW,10:20:00,10.33,still,warm,sunny,none,Chenopod shrubland,0,,,Y,0,0,2
+IN1,A,2,A2,-29.57272193,135.0792662,6/08/2024,DAW,10:40:00,10.67,still,warm,sunny,none,Chenopod shrubland,0,,,Y,0,0,5
+IN1,A,5,A5,-29.57070121,135.0792654,6/08/2024,DAW,11:40:00,11.67,still,warm,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,0
+IN1,B,2,B2,-29.56867515,135.0792734,6/08/2024,SLG,10:49:00,10.82,still,warm,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,0
+IN1,B,3,B3,-29.57665376,135.0839435,6/08/2024,SLG,11:09:00,11.15,still,warm,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,2
+IN1,B,4,B4,-29.57471658,135.0837599,6/08/2024,SLG,11:29:00,11.48,light,warm,partly cloudy,none,Eremophila shrubland,0,,,Y,0,0,0
+IN1,B,5,B5,-29.57268632,135.083835,6/08/2024,SLG,11:49:00,11.82,light,warm,partly cloudy,none,Eremophila shrubland,0,,,Y,0,0,2
+IN1,A,3,A3,-29.57073916,135.0839035,6/08/2024,DAW,11:00:00,11,still,warm,sunny,none,Low chenopod shrubland,0,,,Y,0,0,0
+IN1,A,4,A4,-29.56869976,135.0838252,6/08/2024,DAW,11:20:00,11.33,still,warm,partly cloudy,none,Low chenopod shrubland,0,,,Y,0,0,0
+IN2,B,1,B1,-29.35204334,134.9906782,6/08/2024,DAW,7:56:00,7.93,still,cool,sunny,none,Low chenopod shrubland,0,,,Y,0,0,4
+IN2,B,2,B2,-29.3520453,134.9929632,6/08/2024,DAW,8:16:00,8.27,still,cool,sunny,none,Low chenopod shrubland,0,,,Y,0,0,2
+IN2,B,3,B3,-29.35202833,134.9952905,6/08/2024,DAW,8:36:00,8.6,still,cool,sunny,none,Low chenopod shrubland,0,,,Y,0,0,0
+IN2,B,4,B4,-29.35203729,134.9976036,6/08/2024,DAW,8:56:00,8.93,still,cool,sunny,none,Low chenopod shrubland,0,,,Y,0,0,0
+IN2,B,5,B5,-29.35202851,134.9999306,6/08/2024,DAW,9:16:00,9.27,still,cool,sunny,none,Low chenopod shrubland,0,,,Y,0,0,0
+IN2,A,1,A1,-29.34793418,134.9907733,6/08/2024,SLG,7:57:00,7.95,still,cool,sunny,none,Low chenopod shrubland,0,,,Y,0,0,4
+IN2,A,2,A2,-29.34791582,134.9929237,6/08/2024,SLG,8:17:00,8.28,still,cool,sunny,none,Low chenopod shrubland,0,,,Y,0,0,0
+IN2,A,3,A3,-29.3479258,134.9952285,6/08/2024,SLG,8:37:00,8.62,still,cool,sunny,none,Low chenopod shrubland,0,,,Y,0,0,0
+IN2,A,4,A4,-29.34807755,134.9976214,6/08/2024,SLG,8:57:00,8.95,still,cool,sunny,none,Low chenopod shrubland,0,,,Y,0,0,0
+IN2,A,5,A5,-29.34789395,134.9999466,6/08/2024,SLG,9:17:00,9.28,still,cool,sunny,none,Low chenopod shrubland,0,,,Y,0,0,0
+LA1,A,1,A1,-26.97194731,134.2922593,8/09/2024,DAW,15:08:00,15.13,light,cool,overcast,none,Eremophila shrubland,0,,,N,0,0,0
+LA1,A,4,A4,-26.97396945,134.2922431,8/09/2024,DAW,16:08:00,16.13,light,cool,mostly cloudy,none,Eremophila shrubland,0,,,N,0,0,0
+LA1,B,3,B3,-26.97598086,134.2922401,8/09/2024,NRS,15:48:00,15.8,light,cool,overcast,none,Eremophila shrubland,0,,,N,2,0,0
+LA1,B,2,B2,-26.97799981,134.2922267,8/09/2024,NRS,15:28:00,15.47,light,cool,overcast,none,Eremophila shrubland,0,,,N,0,0,0
+LA1,B,1,B1,-26.98001359,134.2922078,8/09/2024,NRS,15:08:00,15.13,moderate,cool,overcast,none,Eremophila shrubland,0,,,N,0,0,0
+LA1,A,2,A2,-26.971866,134.296788,8/09/2024,DAW,15:28:00,15.47,light,cool,overcast,none,Eremophila shrubland,0,,,N,0,0,0
+LA1,B,4,B4,-26.974056,134.296796,8/09/2024,NRS,16:08:00,16.13,light,cool,overcast,none,Eremophila shrubland,0,,,N,0,0,0
+LA1,B,5,B5,-26.975928,134.296738,8/09/2024,NRS,16:26:00,16.43,still,cool,overcast,none,Eremophila shrubland,0,,,N,0,0,0
+LA1,A,3,A3,-26.978021,134.296604,8/09/2024,DAW,15:48:00,15.8,light,cool,overcast,none,Eremophila shrubland,0,,,N,0,0,0
+LA1,A,5,A5,-26.980087,134.296713,8/09/2024,DAW,16:28:00,16.47,light,cool,mostly cloudy,none,Open gibber,0,,,N,0,0,0
+LC1,B,1,B1,-30.58769213,138.3861912,12/09/2024,NRS,7:00:00,7,light,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+LC1,B,2,B2,-30.58567763,138.3862393,12/09/2024,NRS,7:20:00,7.33,light,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+LC1,A,4,A4,-30.58366551,138.3863056,12/09/2024,DAW,7:58:00,7.97,moderate,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+LC1,A,5,A5,-30.58165051,138.3863531,12/09/2024,DAW,8:18:00,8.3,moderate,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,3
+LC1,A,1,A1,-30.57963571,138.3864022,12/09/2024,DAW,6:58:00,6.97,moderate,cold,sunny,none,Eucalyptus socialis woodland,0,,,N,0,0,0
+LC1,A,2,A2,-30.587801,138.390814,12/09/2024,DAW,7:18:00,7.3,moderate,cool,sunny,none,Eucalyptus socialis woodland,0,,,N,0,0,0
+LC1,A,3,A3,-30.585691,138.390979,12/09/2024,DAW,7:38:00,7.63,moderate,cool,sunny,none,Eucalyptus socialis woodland,0,,,N,0,0,2
+LC1,B,3,B3,-30.583769,138.390864,12/09/2024,NRS,7:40:00,7.67,moderate,cool,sunny,none,Low chenopod shrubland,0,,,N,0,0,2
+LC1,B,4,B4,-30.581789,138.390947,12/09/2024,NRS,8:00:00,8,moderate,cool,sunny,none,Low chenopod shrubland,0,,,N,0,0,3
+LC1,B,5,B5,-30.579782,138.390974,12/09/2024,NRS,8:20:00,8.33,moderate,cool,sunny,none,Low chenopod shrubland,0,,,N,0,0,0
+MC1,A,3,A3,-29.14628685,134.3534587,7/09/2024,DAW,8:00:00,8,light,cool,overcast,none,Low chenopod shrubland,2,Maireana,No,N,0,0,0
+MC1,A,1,A1,-29.14830178,134.3534382,7/09/2024,DAW,7:20:00,7.33,light,cool,mostly cloudy,light,Low chenopod shrubland,0,,,N,0,0,0
+MC1,A,2,A2,-29.1503243,134.3534236,7/09/2024,DAW,7:40:00,7.67,light,cool,mostly cloudy,none,Low chenopod shrubland,0,,,N,0,0,4
+MC1,B,2,B2,-29.15234295,134.3534206,7/09/2024,NRS,7:44:00,7.73,light,cool,overcast,none,Low chenopod shrubland,0,,,N,0,0,0
+MC1,B,1,B1,-29.15434492,134.3534094,7/09/2024,NRS,7:24:00,7.4,still,cool,overcast,light,Low chenopod shrubland,0,,,N,0,0,0
+MC1,B,3,B3,-29.146207,134.348876,7/09/2024,NRS,8:04:00,8.07,light,cool,overcast,none,Low chenopod shrubland,0,,,N,0,0,0
+MC1,A,5,A5,-29.148178,134.348906,7/09/2024,DAW,8:40:00,8.67,light,cool,overcast,none,Low chenopod shrubland,0,,,N,0,0,0
+MC1,B,4,B4,-29.150365,134.348889,7/09/2024,NRS,8:24:00,8.4,light,cool,overcast,none,Low chenopod shrubland,0,,,N,0,0,0
+MC1,B,5,B5,-29.152288,134.348807,7/09/2024,NRS,8:44:00,8.73,light,cool,overcast,none,Low chenopod shrubland,0,,,N,0,0,0
+MC1,A,4,A4,-29.154361,134.34873,7/09/2024,DAW,8:20:00,8.33,light,cool,overcast,none,Low chenopod shrubland,0,,,N,0,0,2
+ME1,B,5,B5,-30.319082,135.747236,13/06/2024,DAW,9:25:00,9.42,moderate,cool,partly cloudy,none,Chenopod shrubland,2,Maireana,Yes,Y,0,0,0
+ME1,A,5,A5,-30.320546,135.747475,13/06/2024,NRS,9:22:00,9.37,moderate,,sunny,none,Chenopod shrubland,1,Maireana,No,Y,0,0,5
+ME1,B,4,B4,-30.322824,135.747292,13/06/2024,DAW,9:00:00,9,moderate,cool,partly cloudy,none,Chenopod shrubland,4,Maireana,Yes,Y,0,0,4
+ME1,B,3,B3,-30.324948,135.746974,13/06/2024,DAW,8:40:00,8.67,light,cool,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,5
+ME1,B,1,B1,-30.327179,135.747111,13/06/2024,DAW,8:00:00,8,still,cool,partly cloudy,none,Chenopod shrubland,2,Maireana,Yes,Y,0,0,5
+ME1,B,2,B2,-30.36042064,135.6304,13/06/2024,DAW,8:20:00,8.33,still,cool,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,8
+ME1,A,4,A4,-30.36241339,135.6304,13/06/2024,NRS,9:02:00,9.03,light,cool,sunny,none,Chenopod shrubland,2,Maireana,Yes,Y,0,0,0
+ME1,A,2,A2,-30.36448649,135.6305,13/06/2024,NRS,8:22:00,8.37,light,cool,sunny,none,Chenopod shrubland,0,,,Y,0,0,0
+ME1,A,3,A3,-30.36646776,135.6304,13/06/2024,NRS,8:42:00,8.7,light,cool,sunny,none,Chenopod shrubland,0,,,Y,2,0,7
+ME1,A,1,A1,-30.36851435,135.6304,13/06/2024,NRS,8:02:00,8.03,still,cool,sunny,none,Chenopod shrubland,0,,,Y,3,0,3
+ME2,A,3,A3,-30.116431,135.863895,13/06/2024,DAW,11:45:00,11.75,moderate,cool,mostly cloudy,none,Chenopod shrubland,0,,,Y,0,0,0
+ME2,B,3,B3,-30.11652,135.861456,13/06/2024,NRS,11:49:00,11.82,strong,cool,sunny,none,Chenopod shrubland,0,,,Y,0,0,0
+ME2,A,5,A5,-30.116302,135.859218,13/06/2024,DAW,11:05:00,11.08,moderate,cool,mostly cloudy,none,Low chenopod shrubland,0,,,Y,0,0,1
+ME2,A,4,A4,-30.116446,135.85685,13/06/2024,DAW,11:25:00,11.42,moderate,cool,mostly cloudy,none,Low chenopod shrubland,0,,,Y,0,0,0
+ME2,A,1,A1,-30.116423,135.853974,13/06/2024,DAW,12:25:00,12.42,moderate,cool,mostly cloudy,none,Low chenopod shrubland,0,,,Y,0,0,0
+ME2,B,1,B1,-30.78582473,135.3942,13/06/2024,NRS,11:09:00,11.15,moderate,cool,sunny,none,Low chenopod shrubland,0,,,Y,0,0,0
+ME2,B,2,B2,-30.78790899,135.3942,13/06/2024,NRS,11:29:00,11.48,moderate,cool,sunny,none,Low chenopod shrubland,0,,,Y,0,0,0
+ME2,B,4,B4,-30.78987453,135.3942,13/06/2024,NRS,12:09:00,12.15,strong,cool,sunny,none,Low chenopod shrubland,0,,,Y,0,0,0
+ME2,B,5,B5,-30.79192507,135.3942,13/06/2024,NRS,12:29:00,12.48,strong,cool,sunny,none,Low chenopod shrubland,0,,,Y,0,0,0
+ME2,A,2,A2,-30.79392186,135.3943,13/06/2024,DAW,12:05:00,12.08,moderate,cool,mostly cloudy,none,Low chenopod shrubland,0,,,Y,0,0,0
+ME3,A,3,A3,-30.2390527,135.2501257,8/08/2024,DAW,7:54:00,7.9,moderate,cool,overcast,none,Acacia shrubland,5,Sclerolaena,No,Y,0,0,2
+ME3,A,4,A4,-30.24106348,135.2501262,8/08/2024,DAW,8:14:00,8.23,strong,cool,overcast,none,Acacia shrubland,0,,,Y,0,0,0
+ME3,A,5,A5,-30.24308767,135.2501374,8/08/2024,DAW,8:34:00,8.57,strong,cool,overcast,none,Acacia aneura woodland,0,,,Y,0,0,0
+ME3,A,1,A1,-30.24509632,135.2501386,8/08/2024,DAW,7:14:00,7.23,moderate,cool,overcast,none,Acacia shrubland,0,,,Y,0,0,0
+ME3,A,2,A2,-30.24711687,135.250148,8/08/2024,DAW,7:34:00,7.57,moderate,cool,overcast,none,Acacia shrubland,0,,,Y,2,2,6
+ME3,B,1,B1,-30.23897926,135.254791,8/08/2024,SLG,7:09:00,7.15,moderate,cool,overcast,none,Chenopod shrubland,2,Maireana,Yes,Y,0,0,0
+ME3,B,3,B3,-30.2410748,135.2547885,8/08/2024,SLG,7:49:00,7.82,moderate,cool,overcast,none,Chenopod shrubland,2,Acacia,Yes,Y,0,0,7
+ME3,B,2,B2,-30.24303434,135.2547669,8/08/2024,SLG,7:29:00,7.48,moderate,cool,overcast,none,Chenopod shrubland,2,Maireana,Yes,Y,0,0,3
+ME3,B,4,B4,-30.24512737,135.2547798,8/08/2024,SLG,8:09:00,8.15,strong,cool,overcast,none,Chenopod shrubland,0,,,Y,0,0,2
+ME3,B,5,B5,-30.24711562,135.2547912,8/08/2024,SLG,8:29:00,8.48,strong,cool,overcast,none,Chenopod shrubland,0,,,Y,0,0,0
+MI1,A,4,A4,-32.44233078,136.0668482,26/09/2024,DGM,7:22:00,7.37,light,cool,sunny,none,Chenopod shrubland,0,,,Y,5,0,3
+MI1,B,4,B4,-32.44225392,136.0692295,26/09/2024,DAW,7:10:00,7.17,light,cool,sunny,none,Chenopod shrubland,0,,,Y,0,3,3
+MI1,B,5,B5,-32.44221051,136.0715776,26/09/2024,DAW,7:30:00,7.5,light,cool,sunny,none,Chenopod shrubland,0,,,Y,0,0,2
+MI1,A,1,A1,-32.44222324,136.0739701,26/09/2024,DGM,6:18:00,6.3,still,cold,sunny,none,Chenopod shrubland,0,,,Y,0,0,0
+MI1,A,2,A2,-32.44215559,136.0763757,26/09/2024,DGM,6:42:00,6.7,still,cold,sunny,none,Chenopod shrubland,0,,,Y,6,0,5
+MI1,A,3,A3,-32.43817989,136.0715255,26/09/2024,DGM,7:02:00,7.03,still,cold,sunny,none,Chenopod shrubland,0,,,Y,2,0,5
+MI1,B,1,B1,-32.43816844,136.0739054,26/09/2024,DAW,6:10:00,6.17,still,cold,sunny,none,Chenopod shrubland,0,,,Y,2,0,3
+MI1,B,2,B2,-32.43814722,136.0762858,26/09/2024,DAW,6:30:00,6.5,still,cold,sunny,none,Chenopod shrubland,0,,,Y,0,0,2
+MI1,B,3,B3,-32.43814252,136.0786694,26/09/2024,DAW,6:50:00,6.83,still,cold,sunny,none,Chenopod shrubland,0,,,Y,0,0,5
+MI1,A,5,A5,-32.43810898,136.0810425,26/09/2024,DGM,7:42:00,7.7,light,cool,sunny,none,Chenopod shrubland,0,,,Y,9,0,6
+ML1,A,1,A1,-30.199617,138.611983,25/09/2024,PC,7:40:00,7.67,calm,cool,overcast,none,Low chenopod shrubland,0,,,Y,0,0,3
+ML1,A,2,A2,-30.199817,138.609603,25/09/2024,PC,8:00:00,8,calm,cool,overcast,light rain,Low chenopod shrubland,0,,,Y,0,0,2
+ML1,A,3,A3,-30.199658,138.607314,25/09/2024,PC,8:35:00,8.58,calm,cool,overcast,none,Low chenopod shrubland,0,,,Y,0,0,0
+ML1,A,4,A4,-30.199756,138.604981,25/09/2024,PC,8:52:00,8.87,calm,cool,mostly cloudy,none,Low chenopod shrubland,0,,,Y,0,0,0
+ML1,A,5,A5,-30.199692,138.602678,25/09/2024,PC,9:20:00,9.33,calm,cool,mostly cloudy,none,Low chenopod shrubland,0,,,Y,0,0,0
+ML1,B,1,B1,-30.203486,138.611839,25/09/2024,CM,7:30:00,7.5,calm,cool,overcast,none,Low chenopod shrubland,0,,,Y,0,0,0
+ML1,B,2,B2,-30.203719,138.609589,25/09/2024,CM,7:50:00,7.83,calm,cool,overcast,light rain,Low chenopod shrubland,0,,,Y,0,0,1
+ML1,B,3,B3,-30.203906,138.607167,25/09/2024,CM,8:10:00,8.17,calm,cool,overcast,none,Low chenopod shrubland,0,,,Y,0,0,0
+ML1,B,4,B4,-30.203814,138.604872,25/09/2024,CM,8:33:00,8.55,calm,cool,mostly cloudy,none,Low chenopod shrubland,0,,,Y,0,0,4
+ML1,B,5,B5,-30.203644,138.602203,25/09/2024,CM,8:54:00,8.9,calm,cool,mostly cloudy,none,Low chenopod shrubland,0,,,Y,0,0,0
+ML2,B,1,B1,-30.076947,138.860092,24/09/2024,CM,12:13:00,12.22,light,cool,overcast,none,Low chenopod shrubland,0,,,N,0,0,0
+ML2,A,1,A1,-30.078969,138.860108,24/09/2024,PC,12:10:00,12.17,light,cool,overcast,none,Low chenopod shrubland,0,,,N,0,0,4
+ML2,A,2,A2,-30.081028,138.860031,24/09/2024,PC,12:32:00,12.53,light,cool,overcast,none,Low chenopod shrubland,0,,,N,0,0,0
+ML2,B,2,B2,-30.082983,138.860047,24/09/2024,CM,12:34:00,12.57,light,cool,overcast,none,Low chenopod shrubland,0,,,N,0,0,0
+ML2,A,3,A3,-30.085069,138.859986,24/09/2024,PC,12:49:00,12.82,moderate,cool,overcast,none,Low chenopod shrubland,0,,,N,0,0,1
+ML2,A,5,A5,-30.076989,138.864589,24/09/2024,PC,13:25:00,13.42,moderate,cool,overcast,none,Low chenopod shrubland,0,,,N,0,0,0
+ML2,B,3,B3,-30.079056,138.864708,24/09/2024,CM,12:54:00,12.9,moderate,cool,overcast,none,Low chenopod shrubland,0,,,N,0,0,3
+ML2,B,5,B5,-30.081039,138.864647,24/09/2024,CM,13:44:00,13.73,moderate,cool,overcast,none,Low chenopod shrubland,0,,,N,0,0,0
+ML2,A,4,A4,-30.083069,138.864656,24/09/2024,PC,13:05:00,13.08,strong,cool,overcast,none,Low chenopod shrubland,0,,,N,0,0,0
+ML2,B,4,B4,-30.085206,138.864364,24/09/2024,CM,13:14:00,13.23,strong,cool,overcast,none,Low chenopod shrubland,0,,,N,0,0,0
+ML3,B,3,B3,-30.218036,138.61145,25/09/2024,CM,16:03:00,16.05,strong,warm,mostly cloudy,none,Chenopod shrubland,0,,,Y,0,0,0
+ML3,A,1,A1,-30.220017,138.611406,25/09/2024,PC,15:40:00,15.67,moderate,warm,mostly cloudy,none,Low chenopod shrubland,0,,,Y,0,0,0
+ML3,B,1,B1,-30.222097,138.611389,25/09/2024,CM,15:42:00,15.7,moderate,warm,mostly cloudy,none,Low chenopod shrubland,0,,,Y,0,0,0
+ML3,A,2,A2,-30.224075,138.611114,25/09/2024,PC,16:00:00,16,strong,warm,mostly cloudy,none,Low chenopod shrubland,0,,,Y,0,0,0
+ML3,A,3,A3,-30.226097,138.611389,25/09/2024,PC,16:15:00,16.25,strong,warm,mostly cloudy,none,Low chenopod shrubland,0,,,Y,0,0,0
+ML3,A,4,A4,-30.226153,138.615953,25/09/2024,PC,16:40:00,16.67,strong,warm,mostly cloudy,none,Low chenopod shrubland,0,,,Y,0,0,0
+ML3,A,5,A5,-30.220003,138.615828,25/09/2024,PC,16:50:00,16.83,strong,warm,mostly cloudy,none,Low chenopod shrubland,0,,,Y,0,0,0
+ML3,B,2,B2,-30.222131,138.616131,25/09/2024,CM,15:53:00,15.88,strong,warm,mostly cloudy,none,Low chenopod shrubland,0,,,Y,0,0,0
+ML3,B,4,B4,-30.220003,138.615828,25/09/2024,CM,16:13:00,16.22,strong,warm,mostly cloudy,none,Low chenopod shrubland,0,,,Y,0,0,2
+ML3,B,5,B5,-30.218181,138.615603,25/09/2024,CM,16:23:00,16.38,strong,warm,mostly cloudy,none,Low chenopod shrubland,0,,,Y,0,0,3
+MP1,B,1,B1,-29.76389209,135.1270802,10/08/2024,SLG,9:44:00,9.73,moderate,warm,sunny,none,Chenopod shrubland,2,Maireana,Yes,N,0,0,0
+MP1,B,2,B2,-29.76390159,135.1293895,10/08/2024,SLG,10:04:00,10.07,moderate,warm,sunny,none,Chenopod shrubland,0,,,N,0,0,4
+MP1,A,1,A1,-29.76390407,135.1316903,10/08/2024,DAW,9:40:00,9.67,light,cool,sunny,none,Chenopod shrubland,2,Maireana,No,N,0,0,2
+MP1,A,2,A2,-29.76389136,135.1340025,10/08/2024,DAW,10:00:00,10,light,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+MP1,A,3,A3,-29.76388189,135.1363318,10/08/2024,DAW,10:20:00,10.33,light,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,5
+MP1,B,5,B5,-29.76790193,135.1272064,10/08/2024,SLG,11:04:00,11.07,light,warm,sunny,none,Chenopod shrubland,2,Acacia,Yes,N,0,0,5
+MP1,A,5,A5,-29.76787959,135.1294126,10/08/2024,DAW,11:00:00,11,light,warm,sunny,none,Chenopod shrubland,0,,,N,0,0,3
+MP1,A,4,A4,-29.76795867,135.1317458,10/08/2024,DAW,10:40:00,10.67,moderate,warm,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+MP1,B,3,B3,-29.76782905,135.1340788,10/08/2024,SLG,10:24:00,10.4,moderate,warm,sunny,none,Low chenopod shrubland,2,Sclerolaena,Yes,N,0,0,4
+MP1,B,4,B4,-29.76766196,135.1366413,10/08/2024,SLG,10:44:00,10.73,light,warm,sunny,none,Low chenopod shrubland,0,,,N,0,0,8
+MP2,B,2,B2,-29.90786884,135.1358124,10/08/2024,DAW,7:22:00,7.37,still,cool,sunny,none,Chenopod shrubland,2,Maireana,Yes,N,0,0,0
+MP2,B,3,B3,-29.9055798,135.1359889,10/08/2024,DAW,7:42:00,7.7,light,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,2
+MP2,B,4,B4,-29.90384211,135.1357335,10/08/2024,DAW,8:02:00,8.03,light,cool,sunny,none,Low chenopod shrubland,0,,,N,0,0,0
+MP2,A,4,A4,-29.90193041,135.135864,10/08/2024,SLG,8:04:00,8.07,light,cool,sunny,none,Low chenopod shrubland,2,Eremophila,Yes,N,0,0,7
+MP2,A,3,A3,-29.89979949,135.1357302,10/08/2024,SLG,7:44:00,7.73,light,cool,sunny,none,Low chenopod shrubland,0,,,N,0,0,0
+MP2,B,5,B5,-29.90791256,135.1404805,10/08/2024,DAW,8:22:00,8.37,light,cool,sunny,none,Low chenopod shrubland,0,,,N,0,0,0
+MP2,A,5,A5,-29.90589211,135.1404769,10/08/2024,SLG,8:24:00,8.4,light,cool,sunny,none,Low chenopod shrubland,0,,,N,0,0,8
+MP2,B,1,B1,-29.90387669,135.1404733,10/08/2024,DAW,7:02:00,7.03,still,cool,sunny,none,Low chenopod shrubland,2,Acacia,Yes,N,0,0,3
+MP2,A,2,A2,-29.90184913,135.1404709,10/08/2024,SLG,7:24:00,7.4,still,cool,sunny,none,Low chenopod shrubland,4,Eremophila,Yes,N,0,0,3
+MP2,A,1,A1,-29.89983763,135.1404631,10/08/2024,SLG,7:04:00,7.07,still,cool,sunny,none,Low chenopod shrubland,2,Senna,Yes,N,0,0,2
+NO1,A,3,A3,-32.16100395,136.5600191,27/09/2024,DAW,7:42:00,7.7,light,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+NO1,A,4,A4,-32.16102843,136.5576465,27/09/2024,DAW,8:02:00,8.03,light,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+NO1,A,5,A5,-32.16105382,136.5552794,27/09/2024,DAW,8:22:00,8.37,light,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,5
+NO1,B,4,B4,-32.16108294,136.5529179,27/09/2024,DGM,8:00:00,8,light,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,3
+NO1,B,5,B5,-32.16111724,136.5505353,27/09/2024,DGM,8:20:00,8.33,moderate,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,2
+NO1,A,1,A1,-32.16506665,136.5600964,27/09/2024,DAW,7:02:00,7.03,still,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+NO1,A,2,A2,-32.16506474,136.5576929,27/09/2024,DAW,7:22:00,7.37,still,cool,sunny,none,Chenopod shrubland,0,,,N,4,0,0
+NO1,B,3,B3,-32.16510752,136.555385,27/09/2024,DGM,7:40:00,7.67,still,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,3
+NO1,B,1,B1,-32.1652058,136.552934,27/09/2024,DGM,7:00:00,7,still,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,4
+NO1,B,2,B2,-32.1651792,136.5506308,27/09/2024,DGM,7:20:00,7.33,still,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,6
+NO2,A,1,A1,-32.18547762,136.4790509,27/09/2024,DAW,9:40:00,9.67,moderate,cool,sunny,none,Chenopod shrubland,0,,,N,9,0,3
+NO2,A,2,A2,-32.18347008,136.478996,27/09/2024,DAW,10:00:00,10,moderate,cool,sunny,none,Chenopod shrubland,0,,,N,2,0,12
+NO2,B,1,B1,-32.18145336,136.4789707,27/09/2024,DGM,9:45:00,9.75,moderate,cool,sunny,none,Chenopod shrubland,0,,,N,2,0,1
+NO2,B,3,B3,-32.17944106,136.4789295,27/09/2024,DGM,10:25:00,10.42,strong,cool,sunny,none,Chenopod shrubland,0,,,N,6,0,0
+NO2,B,4,B4,-32.17742281,136.4789092,27/09/2024,DGM,10:45:00,10.75,strong,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+NO2,B,5,B5,-32.18543893,136.4837943,27/09/2024,DGM,11:05:00,11.08,strong,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+NO2,B,2,B2,-32.18340671,136.4837403,27/09/2024,DGM,10:05:00,10.08,moderate,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+NO2,A,3,A3,-32.18139922,136.4836922,27/09/2024,DAW,10:20:00,10.33,strong,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,2
+NO2,A,4,A4,-32.17940156,136.4836541,27/09/2024,DAW,10:40:00,10.67,strong,cool,sunny,none,Low chenopod shrubland,0,,,N,0,0,3
+NO2,A,5,A5,-32.17739378,136.4836314,27/09/2024,DAW,11:00:00,11,strong,cool,sunny,none,Low chenopod shrubland,0,,,N,1,0,0
+NW1,B,5,B5,-30.56504343,134.9816409,9/08/2024,DAW,13:55:00,13.92,still,warm,partly cloudy,none,Chenopod shrubland,4,Eremophila,Yes,Y,2,0,9
+NW1,A,2,A2,-30.56279444,134.9815735,9/08/2024,SLG,13:02:00,13.03,light,warm,partly cloudy,none,Chenopod shrubland,2,Maireana,Yes,Y,0,0,0
+NW1,A,1,A1,-30.56084285,134.9814588,9/08/2024,SLG,12:42:00,12.7,light,warm,partly cloudy,none,Chenopod shrubland,8,Maireana,Yes,Y,0,0,2
+NW1,A,4,A4,-30.55875767,134.9814922,9/08/2024,SLG,13:42:00,13.7,light,warm,partly cloudy,none,Chenopod shrubland,4,Maireana,Yes,Y,0,0,0
+NW1,A,3,A3,-30.55671293,134.9815331,9/08/2024,SLG,13:22:00,13.37,light,warm,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,0
+NW1,A,5,A5,-30.56486276,134.9861683,9/08/2024,SLG,14:02:00,14.03,light,warm,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,2
+NW1,B,1,B1,-30.56285099,134.9861601,9/08/2024,DAW,12:35:00,12.58,still,warm,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,4
+NW1,B,2,B2,-30.56082902,134.9861685,9/08/2024,DAW,12:55:00,12.92,still,warm,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,4
+NW1,B,4,B4,-30.55880685,134.9861596,9/08/2024,DAW,13:35:00,13.58,still,warm,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,4
+NW1,B,3,B3,-30.55680004,134.9861573,9/08/2024,DAW,13:15:00,13.25,still,warm,partly cloudy,none,Chenopod shrubland,1,,No,Y,0,2,5
+PH1,B,1,B1,-29.68481521,135.4981084,6/09/2024,DAW,7:12:00,7.2,moderate,cool,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,3
+PH1,A,4,A4,-29.68683502,135.4981365,6/09/2024,NRS,8:10:00,8.17,strong,cool,sunny,none,Chenopod shrubland,0,,,Y,0,0,0
+PH1,B,4,B4,-29.68884386,135.4981524,6/09/2024,DAW,8:12:00,8.2,very strong,cool,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,2
+PH1,A,3,A3,-29.6908631,135.4981709,6/09/2024,NRS,7:50:00,7.83,strong,cool,sunny,none,Chenopod shrubland,1,Maireana,Yes,Y,0,0,7
+PH1,A,1,A1,-29.69288488,135.4981603,6/09/2024,NRS,7:10:00,7.17,moderate,cool,sunny,none,Chenopod shrubland,0,,,Y,0,0,2
+PH1,A,2,A2,-29.684843,135.493513,6/09/2024,NRS,7:30:00,7.5,moderate,cool,sunny,none,Chenopod shrubland,0,,,Y,0,0,2
+PH1,A,5,A5,-29.686724,135.493494,6/09/2024,NRS,8:30:00,8.5,strong,cool,sunny,none,Chenopod shrubland,0,,,Y,0,0,0
+PH1,B,2,B2,-29.688906,135.493488,6/09/2024,DAW,7:32:00,7.53,strong,cool,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,3
+PH1,B,5,B5,-29.690888,135.493529,6/09/2024,DAW,8:32:00,8.53,very strong,cool,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,7
+PH1,B,3,B3,-29.692904,135.493531,6/09/2024,DAW,7:52:00,7.87,strong,cool,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,0
+TO1,B,5,B5,-27.40106142,135.3030859,9/09/2024,NRS,15:50:00,15.83,moderate,warm,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+TO1,A,4,A4,-27.40104955,135.3053498,9/09/2024,DAW,15:30:00,15.5,light,warm,sunny,none,Eremophila shrubland,0,,,N,0,0,0
+TO1,A,1,A1,-27.40105804,135.3076125,9/09/2024,DAW,14:30:00,14.5,moderate,warm,sunny,none,Eremophila shrubland,0,,,N,0,0,0
+TO1,A,3,A3,-27.4010364,135.3098775,9/09/2024,DAW,15:10:00,15.17,light,warm,sunny,none,Eremophila shrubland,0,,,N,0,0,0
+TO1,A,5,A5,-27.40104066,135.3121308,9/09/2024,DAW,15:50:00,15.83,light,warm,sunny,none,Eremophila shrubland,0,,,N,0,0,0
+TO1,A,2,A2,-27.405184,135.303107,9/09/2024,DAW,14:50:00,14.83,moderate,warm,sunny,none,Eremophila shrubland,0,,,N,0,0,4
+TO1,B,1,B1,-27.405196,135.305339,9/09/2024,NRS,14:30:00,14.5,moderate,warm,sunny,none,Eremophila shrubland,0,,,N,0,0,0
+TO1,B,2,B2,-27.405104,135.307648,9/09/2024,NRS,14:50:00,14.83,moderate,warm,sunny,none,Eremophila shrubland,0,,,N,0,0,0
+TO1,B,3,B3,-27.404977,135.309908,9/09/2024,NRS,15:10:00,15.17,moderate,warm,sunny,none,Eremophila shrubland,0,,,N,0,0,0
+TO1,B,4,B4,-27.405104,135.312126,9/09/2024,NRS,15:30:00,15.5,moderate,warm,sunny,none,Eremophila shrubland,0,,,N,0,0,0
+TO2,B,4,B4,-27.28594091,135.0014902,9/09/2024,NRS,11:02:00,11.03,light,warm,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+TO2,B,5,B5,-27.28594916,134.9992198,9/09/2024,NRS,11:22:00,11.37,light,warm,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+TO2,B,1,B1,-27.2859351,134.9969644,9/09/2024,NRS,10:02:00,10.03,moderate,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,7
+TO2,B,2,B2,-27.28594301,134.994704,9/09/2024,NRS,10:22:00,10.37,moderate,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,9
+TO2,A,3,A3,-27.28593785,134.9924504,9/09/2024,DAW,10:36:00,10.6,moderate,warm,sunny,none,Chenopod shrubland,0,,,N,0,0,2
+TO2,A,4,A4,-27.289958,134.992469,9/09/2024,DAW,10:56:00,10.93,moderate,warm,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+TO2,A,1,A1,-27.289929,134.99471,9/09/2024,DAW,9:56:00,9.93,moderate,warm,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+TO2,A,2,A2,-27.290008,134.996906,9/09/2024,DAW,10:16:00,10.27,moderate,warm,sunny,none,Chenopod shrubland,0,,,N,0,1,0
+TO2,B,3,B3,-27.290054,134.999193,9/09/2024,NRS,10:42:00,10.7,moderate,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+TO2,A,5,A5,-27.28992,135.00158,9/09/2024,DAW,11:16:00,11.27,moderate,warm,sunny,none,Chenopod shrubland,0,,,N,0,0,4
+TO3,A,5,A5,-27.21943389,134.7719482,9/09/2024,DAW,8:28:00,8.47,moderate,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+TO3,A,1,A1,-27.2214466,134.7719557,9/09/2024,DAW,7:08:00,7.13,light,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+TO3,A,2,A2,-27.22347347,134.7719372,9/09/2024,DAW,7:28:00,7.47,light,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+TO3,B,1,B1,-27.22548614,134.7719442,9/09/2024,NRS,7:11:00,7.18,light,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+TO3,B,2,B2,-27.22750413,134.7719371,9/09/2024,NRS,7:31:00,7.52,light,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+TO3,B,3,B3,-27.219533,134.776437,9/09/2024,NRS,7:51:00,7.85,light,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+TO3,A,3,A3,-27.221471,134.776403,9/09/2024,DAW,7:48:00,7.8,moderate,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+TO3,A,4,A4,-27.223469,134.776529,9/09/2024,DAW,8:08:00,8.13,moderate,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+TO3,B,4,B4,-27.22549,134.77647,9/09/2024,NRS,8:11:00,8.18,moderate,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+TO3,B,5,B5,-27.227483,134.776573,9/09/2024,NRS,8:31:00,8.52,moderate,cool,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+WC1,A,5,A5,-28.91478954,136.3610546,10/09/2024,DAW,12:15:00,12.25,light,warm,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+WC1,A,1,A1,-28.91476378,136.3633457,10/09/2024,DAW,10:55:00,10.92,moderate,warm,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+WC1,A,2,A2,-28.91473305,136.3656343,10/09/2024,DAW,11:15:00,11.25,moderate,warm,sunny,none,Chenopod shrubland,0,,,N,0,0,3
+WC1,A,3,A3,-28.91471351,136.3679197,10/09/2024,DAW,11:35:00,11.58,moderate,warm,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+WC1,A,4,A4,-28.9147048,136.3702039,10/09/2024,DAW,11:55:00,11.92,moderate,warm,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+WC1,B,1,B1,-28.920671,136.363585,10/09/2024,NRS,10:56:00,10.93,moderate,warm,sunny,none,Chenopod shrubland,0,,,N,0,0,2
+WC1,B,2,B2,-28.920668,136.365744,10/09/2024,NRS,11:16:00,11.27,moderate,warm,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+WC1,B,3,B3,-28.920783,136.36791,10/09/2024,NRS,11:36:00,11.6,moderate,warm,sunny,none,Chenopod shrubland,0,,,N,0,0,0
+WC1,B,4,B4,-28.920842,136.370199,10/09/2024,NRS,11:56:00,11.93,moderate,warm,sunny,none,Chenopod shrubland,0,,,N,0,0,4
+WC1,B,5,B5,-28.920762,136.37255,10/09/2024,NRS,15:56:00,15.93,moderate,warm,sunny,none,Chenopod shrubland,0,,,N,0,0,2
+WH1,A,3,A3,-27.34120617,133.9286794,8/09/2024,NRS,10:51:00,10.85,light,cool,overcast,none,Chenopod shrubland,0,,,N,0,0,0
+WH1,B,1,B1,-27.34121564,133.9309355,8/09/2024,DAW,10:10:00,10.17,light,cool,overcast,none,Eremophila shrubland,0,,,N,0,0,0
+WH1,B,2,B2,-27.34123793,133.9331927,8/09/2024,DAW,10:30:00,10.5,moderate,cool,overcast,none,Eremophila shrubland,0,,,N,0,0,0
+WH1,A,1,A1,-27.34125571,133.9354607,8/09/2024,NRS,10:11:00,10.18,light,cool,overcast,none,Eremophila shrubland,0,,,N,0,0,0
+WH1,A,5,A5,-27.34127062,133.9377151,8/09/2024,NRS,11:31:00,11.52,moderate,cool,overcast,none,Eremophila shrubland,0,,,N,2,0,0
+WH1,A,2,A2,-27.337246,133.928665,8/09/2024,NRS,10:31:00,10.52,light,cool,overcast,none,Eremophila shrubland,0,,,N,0,0,0
+WH1,B,4,B4,-27.337135,133.931064,8/09/2024,DAW,11:10:00,11.17,moderate,cool,overcast,none,Low chenopod shrubland,0,,,N,0,0,0
+WH1,A,4,A4,-27.337299,133.933329,8/09/2024,NRS,11:11:00,11.18,moderate,cool,overcast,none,Low chenopod shrubland,0,,,N,0,0,0
+WH1,B,5,B5,-27.337299,133.935478,8/09/2024,DAW,11:30:00,11.5,moderate,cool,overcast,none,Low chenopod shrubland,0,,,N,0,0,0
+WH1,B,3,B3,-27.337186,133.937743,8/09/2024,DAW,10:50:00,10.83,moderate,cool,overcast,none,Low chenopod shrubland,0,,,N,0,0,0
+WH2,A,2,A2,-27.29229469,133.6821194,8/09/2024,DAW,7:45:00,7.75,light,cool,overcast,none,Eremophila shrubland,0,,,Y,0,0,0
+WH2,A,3,A3,-27.2922728,133.6798622,8/09/2024,DAW,8:05:00,8.08,light,cool,overcast,none,Eremophila shrubland,0,,,Y,0,0,0
+WH2,A,1,A1,-27.29225321,133.6776025,8/09/2024,DAW,7:25:00,7.42,still,cool,overcast,none,Eremophila shrubland,0,,,Y,0,0,0
+WH2,A,4,A4,-27.29223635,133.6753414,8/09/2024,DAW,8:25:00,8.42,light,cool,overcast,none,Eremophila shrubland,0,,,Y,0,0,0
+WH2,A,5,A5,-27.29221687,133.6730884,8/09/2024,DAW,8:45:00,8.75,still,cool,overcast,none,Eremophila shrubland,0,,,Y,0,0,0
+WH2,B,1,B1,-27.29631,133.681961,8/09/2024,NRS,7:26:00,7.43,still,cool,overcast,none,Low chenopod shrubland,0,,,Y,0,0,3
+WH2,B,3,B3,-27.296354,133.679827,8/09/2024,NRS,8:06:00,8.1,still,cool,overcast,none,Low chenopod shrubland,0,,,Y,0,0,0
+WH2,B,5,B5,-27.296294,133.677501,8/09/2024,NRS,8:46:00,8.77,still,cool,overcast,none,Low chenopod shrubland,0,,,Y,0,0,0
+WH2,B,2,B2,-27.296317,133.675307,8/09/2024,NRS,7:46:00,7.77,still,cool,overcast,none,Low chenopod shrubland,0,,,Y,0,0,0
+WH2,B,4,B4,-27.29624,133.673015,8/09/2024,NRS,8:26:00,8.43,still,cool,overcast,none,Low chenopod shrubland,0,,,Y,0,0,0
+WI3,A,2,A2,-29.975931,137.971925,23/09/2024,PC,7:08:00,7.13,light,cool,mostly cloudy,none,Low chenopod shrubland,0,,,N,0,0,4
+WI3,A,3,A3,-29.977883,137.971956,23/09/2024,PC,7:30:00,7.5,light,cool,mostly cloudy,none,Low chenopod shrubland,0,,,N,0,0,0
+WI3,B,1,B1,-29.979975,137.971956,23/09/2024,CM,6:45:00,6.75,light,cool,mostly cloudy,none,Low chenopod shrubland,0,,,N,0,0,0
+WI3,B,2,B2,-29.981925,137.971786,23/09/2024,CM,7:07:00,7.12,light,cool,mostly cloudy,none,Low chenopod shrubland,0,,,N,0,0,4
+WI3,B,3,B3,-29.983969,137.971833,23/09/2024,CM,7:30:00,7.5,light,cool,mostly cloudy,none,Low chenopod shrubland,0,,,N,0,0,0
+WI3,A,4,A4,-29.976142,137.976639,23/09/2024,PC,8:00:00,8,moderate,warm,mostly cloudy,none,Low chenopod shrubland,0,,,N,0,0,0
+WI3,A,5,A5,-29.978069,137.976639,23/09/2024,PC,8:20:00,8.33,moderate,warm,mostly cloudy,none,Low chenopod shrubland,0,,,N,0,0,5
+WI3,B,4,B4,-29.97995,137.976536,23/09/2024,CM,7:54:00,7.9,moderate,warm,mostly cloudy,none,Low chenopod shrubland,0,,,N,0,0,1
+WI3,B,5,B5,-29.982114,137.976386,23/09/2024,CM,8:20:00,8.33,moderate,warm,mostly cloudy,none,Low chenopod shrubland,0,,,N,0,0,0
+WI3,A,1,A1,-29.984072,137.976361,23/09/2024,PC,6:45:00,6.75,light,cool,mostly cloudy,none,Low chenopod shrubland,0,,,N,0,0,5
+WI1,B,1,B1,-29.944983,137.942872,23/09/2024,CM,9:54:00,9.9,moderate,warm,mostly cloudy,none,Chenopod shrubland,0,,,N,0,0,0
+WI1,A,2,A2,-29.945022,137.945175,23/09/2024,PC,10:20:00,10.33,light,warm,mostly cloudy,none,Low chenopod shrubland,0,,,N,0,0,8
+WI1,A,3,A3,-29.945081,137.947481,23/09/2024,PC,10:42:00,10.7,light,warm,mostly cloudy,none,Low chenopod shrubland,0,,,N,0,0,0
+WI1,A,4,A4,-29.945125,137.949828,23/09/2024,PC,11:03:00,11.05,light,warm,mostly cloudy,none,Low chenopod shrubland,0,,,N,0,0,0
+WI1,A,5,A5,-29.945172,137.952164,23/09/2024,PC,11:20:00,11.33,light,warm,mostly cloudy,none,Low chenopod shrubland,0,,,N,0,0,0
+WI1,B,2,B2,-29.948903,137.942944,23/09/2024,CM,10:14:00,10.23,light,warm,mostly cloudy,none,Low chenopod shrubland,0,,,N,0,0,0
+WI1,B,3,B3,-29.948989,137.945089,23/09/2024,CM,10:34:00,10.57,light,warm,mostly cloudy,none,Low chenopod shrubland,0,,,N,0,0,0
+WI1,B,4,B4,-29.949044,137.947553,23/09/2024,CM,11:01:00,11.02,light,warm,mostly cloudy,none,Low chenopod shrubland,0,,,N,0,0,6
+WI1,B,5,B5,-29.949203,137.949736,23/09/2024,CM,11:21:00,11.35,light,warm,mostly cloudy,none,Low chenopod shrubland,0,,,N,0,0,2
+WI1,A,1,A1,-29.949206,137.951964,23/09/2024,PC,9:50:00,9.83,moderate,warm,mostly cloudy,none,Low chenopod shrubland,0,,,N,0,0,2
+WIL1,B,3,B3,-30.63145229,134.9674872,9/08/2024,SLG,8:48:00,8.8,light,cool,partly cloudy,none,Chenopod shrubland,4,Lycium,No,Y,0,0,6
+WIL1,A,4,A4,-30.63143898,134.9698226,9/08/2024,DAW,9:05:00,9.08,light,cool,mostly cloudy,none,Chenopod shrubland,0,,,Y,0,0,2
+WIL1,B,4,B4,-30.63145383,134.9721469,9/08/2024,SLG,9:08:00,9.13,light,cool,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,3
+WIL1,A,1,A1,-30.63145116,134.974476,9/08/2024,DAW,8:05:00,8.08,still,cool,mostly cloudy,none,Chenopod shrubland,0,,,Y,0,0,0
+WIL1,A,2,A2,-30.63144866,134.9768087,9/08/2024,DAW,8:25:00,8.42,still,cool,mostly cloudy,none,Chenopod shrubland,0,,,Y,0,0,3
+WIL1,A,3,A3,-30.63543851,134.9675092,9/08/2024,DAW,8:45:00,8.75,still,cool,mostly cloudy,none,Chenopod shrubland,0,,,Y,0,0,6
+WIL1,B,1,B1,-30.63546509,134.9698426,9/08/2024,SLG,8:08:00,8.13,still,cool,mostly cloudy,none,Chenopod shrubland,0,,,Y,0,0,2
+WIL1,B,2,B2,-30.63553071,134.9721531,9/08/2024,SLG,8:28:00,8.47,still,cool,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,2
+WIL1,A,5,A5,-30.63545744,134.9744652,9/08/2024,DAW,9:25:00,9.42,light,cool,mostly cloudy,none,Chenopod shrubland,2,Maireana,No,Y,0,0,0
+WIL1,B,5,B5,-30.63545493,134.97679,9/08/2024,SLG,9:28:00,9.47,light,cool,partly cloudy,none,Chenopod shrubland,0,,,Y,2,0,5
+WIL2,A,5,A5,-30.60521895,134.9721593,9/08/2024,DAW,11:32:00,11.53,still,warm,partly cloudy,none,Chenopod shrubland,2,Maireana,No,Y,0,1,4
+WIL2,A,1,A1,-30.60321871,134.9721721,9/08/2024,DAW,10:12:00,10.2,light,cool,partly cloudy,none,Chenopod shrubland,2,Lycium,Yes,Y,0,0,0
+WIL2,B,1,B1,-30.60118728,134.9721781,9/08/2024,SLG,10:12:00,10.2,light,warm,partly cloudy,none,Chenopod shrubland,3,Maireana,Yes,Y,0,0,0
+WIL2,B,3,B3,-30.5991638,134.9721644,9/08/2024,SLG,10:52:00,10.87,light,warm,partly cloudy,none,Chenopod shrubland,2,Maireana,Yes,Y,0,0,0
+WIL2,B,2,B2,-30.59714253,134.9721577,9/08/2024,SLG,10:32:00,10.53,light,warm,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,2
+WIL2,B,4,B4,-30.60524195,134.9770316,9/08/2024,SLG,11:12:00,11.2,light,warm,partly cloudy,none,Chenopod shrubland,2,Maireana,Yes,Y,0,0,8
+WIL2,B,5,B5,-30.60311812,134.97674,9/08/2024,SLG,11:32:00,11.53,light,warm,partly cloudy,none,Chenopod shrubland,0,,,Y,0,0,2
+WIL2,A,2,A2,-30.6012214,134.9767748,9/08/2024,DAW,10:32:00,10.53,light,cool,partly cloudy,none,Low chenopod shrubland,2,Maireana,No,Y,0,0,4
+WIL2,A,4,A4,-30.59858324,134.9767451,9/08/2024,DAW,11:12:00,11.2,still,warm,partly cloudy,none,Low chenopod shrubland,3,Maireana,No,Y,0,0,6
+WIL2,A,3,A3,-30.597148,134.976826,9/08/2024,DAW,10:52:00,10.87,light,cool,partly cloudy,none,Low chenopod shrubland,0,,,Y,0,0,8
