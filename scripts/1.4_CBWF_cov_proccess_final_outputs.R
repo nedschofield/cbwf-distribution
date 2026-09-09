@@ -5,7 +5,7 @@
 # Overview:
 # Process additional data files and combine all spatial covariates into a
 # single aligned raster stack for downstream analysis. Also creates masking
-# layers (water polygons, NVIS habitat types) and a spatial vector of CBWF
+# layers (NVIS habitat types) and a spatial vector of CBWF
 # survey sites.
 
 # ---- Packages ------------------------------------------------------------
@@ -14,15 +14,7 @@ library(terra)
 library(sf)
 library(tidyverse)
 
-# ---- Water polygon mask --------------------------------------------------
-
 study.region <- read_sf("./outputs/vector/study.region.gpkg")
-
-water <- read_sf("./data/vector/water_courses.gpkg") %>% 
-  mutate(water = 1) %>%
-  st_crop(study.region %>% st_buffer(10000))
-
-write_sf(water, "./outputs/vector/water_courses_cropped.gpkg", overwrite = TRUE)
 
 # ---- NVIS habitat mask ---------------------------------------------------
 
@@ -49,7 +41,6 @@ writeVector(sites, "./outputs/vector/CBWF_site_locations.gpkg", layer = "CBWF_su
 
 # Vectors
 study.region <- vect("./outputs/vector/study.region.gpkg")
-water        <- vect("./outputs/vector/water_courses_cropped.gpkg")
 
 # Rasters
 nvis           <- rast(file.path("./outputs/raster/nvis_cropped.tif"))
