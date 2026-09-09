@@ -104,7 +104,7 @@ These climate raster datasets are large and are **not** stored in the repository
 
 ------------------------------------------------------------------------
 
-## Analysis workflow {#analysis-workflow}
+## Analysis workflow
 
 Scripts are numbered to indicate execution order. Running them in sequence downloads the required climate rasters and populates `data/` and `outputs/` as it goes:
 
